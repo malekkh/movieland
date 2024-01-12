@@ -1,0 +1,2 @@
+[build]
+  base = "subdirectory"  # Replace "subdirectory" with the actual path to your project
